@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/bumbitzu/WebviewApp/master/Capture.png)
+
 # Webview App
 
 A Xamarin.Forms application template for Android that uses WebView to load and display an HTML page with CSS and JavaScript.
@@ -83,3 +83,6 @@ See also the list of [contributors](https://github.com/bumbitzu/WebviewApp/contr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+## Screenshots
+![Alt text](https://raw.githubusercontent.com/bumbitzu/WebviewApp/master/Capture.png)
