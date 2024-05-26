@@ -1,7 +1,7 @@
 
-# Webview App
+# WebviewApp
 
-A Xamarin.Forms application template for Android that uses WebView to load and display an HTML page with CSS and JavaScript.
+WebviewApp is a cross-platform mobile application developed using Xamarin.Forms. This app demonstrates how to load and display local HTML content within a WebView. It supports the inclusion of CSS styles and JavaScript scripts to enrich the web content presented to the user.
 
 ## Features
 
