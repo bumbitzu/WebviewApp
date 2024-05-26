@@ -1,0 +1,26 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    font-size: 18px;
+}
+.css{
+    font-size: 28px;
+}
+button{
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    box-shadow : 0 4px 8px 0 rgba(0,0,0,0.2);
+}
